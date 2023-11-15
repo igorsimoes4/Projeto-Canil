@@ -26,4 +26,4 @@ server.use( ( req: Request, res: Response  ) => {
 } );
 
 // Roda o Server //
-server.listen(process.env.PORT);
+server.listen(8080);
